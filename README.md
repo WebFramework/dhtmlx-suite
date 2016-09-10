@@ -44,6 +44,16 @@ var mainLayout = new dhtmlXLayoutObject(document.body, '3L');
 // ...
 ```
 
+## Demo apps screen
+
+### File Explorer
+![File Explorer](http://dhtmlx.com/docs/products/demoApps/images/screen/app_file.png)
+
+### File Commander
+![File Commander](http://dhtmlx.com/docs/products/demoApps/images/screen/app_commander.png)
+
+### Geo Explorer
+![Geo Explorer](http://dhtmlx.com/docs/products/demoApps/images/screen/app_geo_map.png)
 
 ## Awesome tools && example
 
